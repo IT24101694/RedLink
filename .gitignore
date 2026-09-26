@@ -1,0 +1,33 @@
+# Target build directory
+target/
+*.class
+
+# Log files
+*.log
+
+# Eclipse metadata
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# IntelliJ IDEA metadata
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# VS Code metadata
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Maven Wrapper binaries
+.mvn/timing.defs
+.mvn/wrapper/maven-wrapper.jar
